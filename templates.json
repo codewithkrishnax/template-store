@@ -1,0 +1,16 @@
+[
+    {
+        "id": "temp-1",
+        "title": "Animated Grid Background",
+        "description": "A lightweight looping grid animation ideal for modern landing pages, dashboards, and portfolio backgrounds.",
+        "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/background-grid.png",
+        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/background-grid.html",
+        "tags": [
+            "Background",
+            "Animation",
+            "UI",
+            "Grid"
+        ],
+        "date": "2025-01-14"
+    }
+]
