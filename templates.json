@@ -1,6 +1,6 @@
 [
     {
-        "id": "temp-1",
+        "id": "background-grid",
         "title": "Animated Grid Background",
         "description": "A lightweight looping grid animation ideal for modern landing pages, dashboards, and portfolio backgrounds.",
         "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/background-grid.png",
@@ -8,9 +8,24 @@
         "tags": [
             "Background",
             "Animation",
-            "UI",
-            "Grid"
+            "Video"
         ],
+        "author": "Code With Krishna",
         "date": "2025-01-14"
+    },
+    {
+        "id": "code-to-image-v1",
+        "title": "CodeSnap — Code to Image Tool",
+        "description": "A lightweight code-to-image tool that lets developers convert code snippets into beautiful, shareable images. Designed with a clean UI, multiple backgrounds, light/dark themes, and optimized 4K exports. Ideal for developers, educators, and content creators.",
+        
+        "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/code-to-image-v1.png",
+        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/code-to-image-v1.html",
+        "tags": [
+            "Tool",
+            "PWA",
+            "App"
+        ],
+        "author": "Code With Krishna",
+        "date": "2025-12-16"
     }
 ]
