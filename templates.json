@@ -11,7 +11,8 @@
             "Video"
         ],
         "author": "Code With Krishna",
-        "date": "2025-01-14"
+        "date": "2025-01-14",
+        "show":true
     },
     {
         "id": "code-to-image-v1",
@@ -26,6 +27,22 @@
             "App"
         ],
         "author": "Code With Krishna",
-        "date": "2025-12-16"
+        "date": "2025-12-16",
+        "show": true
+    },
+    {
+        "id": "todo-pwa-v1",
+        "title": "TaskFlow — Todo App PWA",
+        "description": "A modern, mobile-first Todo PWA designed for productivity with a fullscreen layout, beautiful purple gradients, and a glassmorphic UI. Includes smooth animations, real-time task statistics, and an intuitive experience optimized for daily task management.",
+        "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/todo-pwa-v1.png",
+        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/todo-pwa-v1.html",
+        "tags": [
+            "Tool",
+            "PWA",
+            "Productivity"
+        ],
+        "author": "Code With Krishna",
+        "date": "2025-12-20",
+        "show": true
     }
 ]
