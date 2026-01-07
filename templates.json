@@ -32,7 +32,7 @@
     },
     {
         "id": "todo-pwa-v1",
-        "title": "TaskFlow — Todo App PWA",
+        "title": "TaskFlow — Todo App",
         "description": "A modern, mobile-first Todo PWA designed for productivity with a fullscreen layout, beautiful purple gradients, and a glassmorphic UI. Includes smooth animations, real-time task statistics, and an intuitive experience optimized for daily task management.",
         "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/todo-pwa-v1.png",
         "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/todo-pwa-v1.html",
@@ -43,6 +43,54 @@
         ],
         "author": "Code With Krishna",
         "date": "2025-12-20",
+        "show": true
+    },
+    {
+        "id": "js-editor-v1",
+        "title": "JavaScript Editor – Live Preview",
+        "description": "A lightweight in-browser JavaScript editor with auto-run and live preview support. Ideal for testing UI components, animations, and quick prototypes.",
+        "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/js-editor-v1.png",
+        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/js-editor-v1.html",
+        "tags": [
+            "App",
+            "Tool",
+            "PWA"
+        ],
+        "author": "Code With Krishna",
+        "date": "2026-01-01",
+        "type": "tool",
+        "show": true
+    },
+    {
+        "id": "onepage-cv-ats-v1",
+        "title": "One Page CV – ATS Friendly",
+        "description": "A clean, single-page resume template optimized for Applicant Tracking Systems. Ideal for job applications with structured content and readable layout.",
+        "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/onepage-cv-ats-v1.png",
+        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/onepage-cv-ats-v1.html",
+        "tags": [
+            "Resume",
+            "CV",
+            "ATS"
+        ],
+        "author": "Code With Krishna",
+        "date": "2026-01-03",
+        "type": "template",
+        "show": true
+    },
+    {
+        "id": "json-master",
+        "title": "JSON Master",
+        "description": "A powerful yet simple tool to format, validate, minify, and visualize JSON data. Ideal for developers working with APIs and configurations.",
+        "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/json-master.png",
+        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/json-master.html",
+        "tags": [
+            "JSON",
+            "Tool",
+            "Developer"
+        ],
+        "author": "Code With Krishna",
+        "date": "2025-12-26",
+        "type": "tool",
         "show": true
     }
 ]
