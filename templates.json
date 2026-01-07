@@ -34,7 +34,7 @@
         "id": "todo-pwa-v1",
         "title": "TaskFlow — Todo App",
         "description": "A modern, mobile-first Todo PWA designed for productivity with a fullscreen layout, beautiful purple gradients, and a glassmorphic UI. Includes smooth animations, real-time task statistics, and an intuitive experience optimized for daily task management.",
-        "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/todo-pwa-v1.png",
+        "preview": "",
         "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/todo-pwa-v1.html",
         "tags": [
             "Tool",
@@ -49,7 +49,7 @@
         "id": "js-editor-v1",
         "title": "JavaScript Editor – Live Preview",
         "description": "A lightweight in-browser JavaScript editor with auto-run and live preview support. Ideal for testing UI components, animations, and quick prototypes.",
-        "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/js-editor-v1.png",
+        "preview": "",
         "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/js-editor-v1.html",
         "tags": [
             "App",
