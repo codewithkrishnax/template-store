@@ -28,7 +28,8 @@
         ],
         "author": "Code With Krishna",
         "date": "2025-12-16",
-        "show": true
+        "show": true,
+        "isPremium":true
     },
     {
         "id": "todo-pwa-v1",
@@ -92,5 +93,23 @@
         "date": "2025-12-26",
         "type": "tool",
         "show": true
-    }
+    },
+    {
+        "id": "tic-tac-toe",
+        "title": "Tic Tac Toe",
+        "description": "Classic two player tic tac toe game with clean interface.",
+        "preview": "",
+        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/tic-tac-toe.html",
+        "tags": [
+          "Game",
+          "Fun",
+          "Web"
+        ],
+        "author": "Code With Krishna",
+        "date": "2026-02-10",
+        "type": "game",
+        "isPremium": false,
+        "show": true
+      }
+      
 ]
