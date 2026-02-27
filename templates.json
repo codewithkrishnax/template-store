@@ -17,7 +17,7 @@
     {
         "id": "code-to-image-v1",
         "title": "CodeSnap — Code to Image Tool",
-        "description": "A lightweight code-to-image tool that lets developers convert code snippets into beautiful, shareable images. Designed with a clean UI, multiple backgrounds, light/dark themes, and optimized 4K exports. Ideal for developers, educators, and content creators.",
+        "description": "Lightweight code-to-image tool converting snippets into beautiful, shareable images with clean UI, themes, backgrounds, and optimized 4K exports.",
         
         "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/code-to-image-v1.png",
         "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/code-to-image-v1.html",
@@ -34,7 +34,7 @@
     {
         "id": "todo-pwa-v1",
         "title": "TaskFlow — Todo App",
-        "description": "A modern, mobile-first Todo PWA designed for productivity with a fullscreen layout, beautiful purple gradients, and a glassmorphic UI. Includes smooth animations, real-time task statistics, and an intuitive experience optimized for daily task management.",
+        "description": "Modern mobile-first Todo PWA with fullscreen layout, purple gradients, glassmorphic UI, smooth animations, real-time stats, intuitive daily productivity experience.",
         "preview": "",
         "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/todo-pwa-v1.html",
         "tags": [
@@ -109,6 +109,23 @@
         "date": "2026-02-10",
         "type": "game",
         "isPremium": false,
+        "show": true
+      },
+      {
+        "id": "mockup-generator-v1",
+        "title": "Mobile Mockup Generator – 4K Export",
+        "description": "Create realistic mobile device mockups and export high resolution 4K image instantly.",
+        "preview": "",
+        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/mockup-generator-v1.html",
+        "tags": [
+          "Tool",
+          "Mockup",
+          "PWA"
+        ],
+        "author": "Code With Krishna",
+        "date": "2026-02-27",
+        "type": "tool",
+        "isPremium": true,
         "show": true
       }
       
