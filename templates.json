@@ -21,11 +21,7 @@
         
         "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/code-to-image-v1.png",
         "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/code-to-image-v1.html",
-        "tags": [
-            "Tool",
-            "PWA",
-            "App"
-        ],
+       "tags": ["Tool","Developer","Image","PWA"],
         "author": "Code With Krishna",
         "date": "2025-12-16",
         "show": true,
@@ -37,11 +33,7 @@
         "description": "Modern mobile-first Todo PWA with fullscreen layout, purple gradients, glassmorphic UI, smooth animations, real-time stats, intuitive daily productivity experience.",
         "preview": "",
         "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/todo-pwa-v1.html",
-        "tags": [
-            "Tool",
-            "PWA",
-            "Productivity"
-        ],
+        "tags": ["Productivity","PWA","App","Tool"],
         "author": "Code With Krishna",
         "date": "2025-12-20",
         "show": true
@@ -53,13 +45,12 @@
         "preview": "",
         "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/js-editor-v1.html",
         "tags": [
-            "App",
-            "Tool",
-            "PWA"
+           "Developer","Editor","Tool","Localhost"
         ],
         "author": "Code With Krishna",
         "date": "2026-01-01",
         "type": "tool",
+        "isPremium": true,
         "show": true
     },
     {
@@ -69,9 +60,7 @@
         "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/onepage-cv-ats-v1.png",
         "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/onepage-cv-ats-v1.html",
         "tags": [
-            "Resume",
-            "CV",
-            "ATS"
+           "Resume","Template","CV"
         ],
         "author": "Code With Krishna",
         "date": "2026-01-03",
@@ -85,9 +74,7 @@
         "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/json-master.png",
         "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/json-master.html",
         "tags": [
-            "JSON",
-            "Tool",
-            "Developer"
+          "JSON","Developer","Tool"
         ],
         "author": "Code With Krishna",
         "date": "2025-12-26",
@@ -118,14 +105,117 @@
         "preview": "",
         "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/mockup-generator-v1.html",
         "tags": [
-          "Tool",
-          "Mockup",
-          "PWA"
+         "Mockup","Tool","PWA","Image"
         ],
         "author": "Code With Krishna",
         "date": "2026-02-27",
         "type": "tool",
         "isPremium": true,
+        "show": true
+      },
+      {
+        "id": "base64-encoder-decoder-v1",
+        "title": "Base64 Encode / Decode Tool",
+        "description": "Quickly encode text to Base64 or decode Base64 strings instantly.",
+        "preview": "",
+        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/base64-encoder-decoder-v1.html",
+        "tags": [
+          "Base64","Developer","Tool"
+        ],
+        "author": "Code With Krishna",
+        "date": "2026-03-9",
+        "type": "tool",
+        "isPremium": false,
+        "show": true
+      },
+      {
+        "id": "hash-tools-crypto-suite",
+        "title": "Hash Tools – Crypto Suite",
+        "description": "Generate and lookup hashes using MD5, SHA1, SHA224, SHA256, SHA384, and SHA512 instantly.",
+        "preview": "",
+        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/hash-tools-crypto-suite.html",
+        "tags": [
+        "Security","Hash","Developer","Tool"
+        ],
+        "author": "Code With Krishna",
+        "date": "2026-03-09",
+        "type": "tool",
+        "isPremium": true,
+        "show": true
+      },
+      {
+        "id": "youtube-thumbnail-grabber-v1",
+        "title": "YouTube Thumbnail Grabber",
+        "description": "Extract and download all YouTube video thumbnail qualities instantly.",
+        "preview": "",
+        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/youtube-thumbnail-grabber-v1.html",
+        "tags": [
+         "YouTube","Tool","Creator","PWA"
+        ],
+        "author": "Code With Krishna",
+        "date": "2026-03-10",
+        "type": "tool",
+        "isPremium": true,
+        "show": true
+      },
+      {
+        "id": "password-generator-v1",
+        "title": "Password Generator",
+        "description": "Generate strong random passwords with custom length and character options.",
+        "preview": "",
+        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/password-generator-v1.html",
+        "tags": [
+         "Security","Password","Tool"
+        ],
+        "author": "Code With Krishna",
+        "date": "2026-03-10",
+        "type": "tool",
+        "isPremium": false,
+        "show": true
+      },
+      {
+        "id": "qr-generator-v1",
+        "title": "QR Code Generator",
+        "description": "Generate customizable QR codes with color, size, and download options.",
+        "preview": "",
+        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/qr-generator-v1.html",
+        "tags": [
+         "QR","Generator","Tool","PWA"
+        ],
+        "author": "Code With Krishna",
+        "date": "2026-03-10",
+        "type": "tool",
+        "isPremium": true,
+        "show": true
+      },
+      {
+        "id": "markdown-editor-v1",
+        "title": "Markdown Editor – Live Preview",
+        "description": "Write Markdown with live preview, formatting toolbar, and export options.",
+        "preview": "",
+        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/markdown-editor-v1.html",
+        "tags": [
+          "Markdown","Editor","Tool","PWA"
+        ],
+        "author": "Code With Krishna",
+        "date": "2026-03-09",
+        "type": "tool",
+        "isPremium": true,
+        "show": true
+      },
+      {
+        "id": "text-editor-v1",
+        "title": "Text Editor – Advanced Writing Tool",
+        "description": "Minimal text editor with find, formatting tools, stats, and export.",
+        "preview": "",
+        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/text-editor-v1.html",
+        "tags": [
+         "Editor","Text","Tool","PWA"
+        ],
+        "author": "Code With Krishna",
+        "date": "2026-03-08",
+        "type": "tool",
+        "isPremium": false,
         "show": true
       }
       
