@@ -1,222 +1,365 @@
 [
-    {
-        "id": "background-grid",
-        "title": "Animated Grid Background",
-        "description": "A lightweight looping grid animation ideal for modern landing pages, dashboards, and portfolio backgrounds.",
-        "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/background-grid.png",
-        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/background-grid.html",
-        "tags": [
-            "Background",
-            "Animation",
-            "Video"
-        ],
-        "author": "Code With Krishna",
-        "date": "2025-01-14",
-        "show":true
-    },
-    {
-        "id": "code-to-image-v1",
-        "title": "CodeSnap — Code to Image Tool",
-        "description": "Lightweight code-to-image tool converting snippets into beautiful, shareable images with clean UI, themes, backgrounds, and optimized 4K exports.",
-        
-        "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/code-to-image-v1.png",
-        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/code-to-image-v1.html",
-       "tags": ["Tool","Developer","Image","PWA"],
-        "author": "Code With Krishna",
-        "date": "2025-12-16",
-        "show": true,
-        "isPremium":true
-    },
-    {
-        "id": "todo-pwa-v1",
-        "title": "TaskFlow — Todo App",
-        "description": "Modern mobile-first Todo PWA with fullscreen layout, purple gradients, glassmorphic UI, smooth animations, real-time stats, intuitive daily productivity experience.",
-        "preview": "",
-        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/todo-pwa-v1.html",
-        "tags": ["Productivity","PWA","App","Tool"],
-        "author": "Code With Krishna",
-        "date": "2025-12-20",
-        "show": true
-    },
-    {
-        "id": "js-editor-v1",
-        "title": "JavaScript Editor – Live Preview",
-        "description": "A lightweight in-browser JavaScript editor with auto-run and live preview support. Ideal for testing UI components, animations, and quick prototypes.",
-        "preview": "",
-        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/js-editor-v1.html",
-        "tags": [
-           "Developer","Editor","Tool","Localhost"
-        ],
-        "author": "Code With Krishna",
-        "date": "2026-01-01",
-        "type": "tool",
-        "isPremium": true,
-        "show": true
-    },
-    {
-        "id": "onepage-cv-ats-v1",
-        "title": "One Page CV – ATS Friendly",
-        "description": "A clean, single-page resume template optimized for Applicant Tracking Systems. Ideal for job applications with structured content and readable layout.",
-        "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/onepage-cv-ats-v1.png",
-        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/onepage-cv-ats-v1.html",
-        "tags": [
-           "Resume","Template","CV"
-        ],
-        "author": "Code With Krishna",
-        "date": "2026-01-03",
-        "type": "template",
-        "show": true
-    },
-    {
-        "id": "json-master",
-        "title": "JSON Master",
-        "description": "A powerful yet simple tool to format, validate, minify, and visualize JSON data. Ideal for developers working with APIs and configurations.",
-        "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/json-master.png",
-        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/json-master.html",
-        "tags": [
-          "JSON","Developer","Tool"
-        ],
-        "author": "Code With Krishna",
-        "date": "2025-12-26",
-        "type": "tool",
-        "show": true
-    },
-    {
-        "id": "tic-tac-toe",
-        "title": "Tic Tac Toe",
-        "description": "Classic two player tic tac toe game with clean interface.",
-        "preview": "",
-        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/tic-tac-toe.html",
-        "tags": [
-          "Game",
-          "Fun",
-          "Web"
-        ],
-        "author": "Code With Krishna",
-        "date": "2026-02-10",
-        "type": "game",
-        "isPremium": false,
-        "show": true
-      },
-      {
-        "id": "mockup-generator-v1",
-        "title": "Mobile Mockup Generator – 4K Export",
-        "description": "Create realistic mobile device mockups and export high resolution 4K image instantly.",
-        "preview": "",
-        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/mockup-generator-v1.html",
-        "tags": [
-         "Mockup","Tool","PWA","Image"
-        ],
-        "author": "Code With Krishna",
-        "date": "2026-02-27",
-        "type": "tool",
-        "isPremium": true,
-        "show": true
-      },
-      {
-        "id": "base64-encoder-decoder-v1",
-        "title": "Base64 Encode / Decode Tool",
-        "description": "Quickly encode text to Base64 or decode Base64 strings instantly.",
-        "preview": "",
-        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/base64-encoder-decoder-v1.html",
-        "tags": [
-          "Base64","Developer","Tool"
-        ],
-        "author": "Code With Krishna",
-        "date": "2026-03-9",
-        "type": "tool",
-        "isPremium": false,
-        "show": true
-      },
-      {
-        "id": "hash-tools-crypto-suite",
-        "title": "Hash Tools – Crypto Suite",
-        "description": "Generate and lookup hashes using MD5, SHA1, SHA224, SHA256, SHA384, and SHA512 instantly.",
-        "preview": "",
-        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/hash-tools-crypto-suite.html",
-        "tags": [
-        "Security","Hash","Developer","Tool"
-        ],
-        "author": "Code With Krishna",
-        "date": "2026-03-09",
-        "type": "tool",
-        "isPremium": true,
-        "show": true
-      },
-      {
-        "id": "youtube-thumbnail-grabber-v1",
-        "title": "YouTube Thumbnail Grabber",
-        "description": "Extract and download all YouTube video thumbnail qualities instantly.",
-        "preview": "",
-        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/youtube-thumbnail-grabber-v1.html",
-        "tags": [
-         "YouTube","Tool","Creator","PWA"
-        ],
-        "author": "Code With Krishna",
-        "date": "2026-03-10",
-        "type": "tool",
-        "isPremium": true,
-        "show": true
-      },
-      {
-        "id": "password-generator-v1",
-        "title": "Password Generator",
-        "description": "Generate strong random passwords with custom length and character options.",
-        "preview": "",
-        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/password-generator-v1.html",
-        "tags": [
-         "Security","Password","Tool"
-        ],
-        "author": "Code With Krishna",
-        "date": "2026-03-10",
-        "type": "tool",
-        "isPremium": false,
-        "show": true
-      },
-      {
-        "id": "qr-generator-v1",
-        "title": "QR Code Generator",
-        "description": "Generate customizable QR codes with color, size, and download options.",
-        "preview": "",
-        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/qr-generator-v1.html",
-        "tags": [
-         "QR","Generator","Tool","PWA"
-        ],
-        "author": "Code With Krishna",
-        "date": "2026-03-10",
-        "type": "tool",
-        "isPremium": true,
-        "show": true
-      },
-      {
-        "id": "markdown-editor-v1",
-        "title": "Markdown Editor – Live Preview",
-        "description": "Write Markdown with live preview, formatting toolbar, and export options.",
-        "preview": "",
-        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/markdown-editor-v1.html",
-        "tags": [
-          "Markdown","Editor","Tool","PWA"
-        ],
-        "author": "Code With Krishna",
-        "date": "2026-03-09",
-        "type": "tool",
-        "isPremium": true,
-        "show": true
-      },
-      {
-        "id": "text-editor-v1",
-        "title": "Text Editor – Advanced Writing Tool",
-        "description": "Minimal text editor with find, formatting tools, stats, and export.",
-        "preview": "",
-        "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/text-editor-v1.html",
-        "tags": [
-         "Editor","Text","Tool","PWA"
-        ],
-        "author": "Code With Krishna",
-        "date": "2026-03-08",
-        "type": "tool",
-        "isPremium": false,
-        "show": true
-      }
-      
+  {
+    "id": "background-grid",
+    "title": "Animated Grid Background",
+    "description": "A lightweight looping grid animation ideal for modern landing pages, dashboards, and portfolio backgrounds.",
+    "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/background-grid.png",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/background-grid.html",
+    "tags": [
+      "Background",
+      "Animation",
+      "Video"
+    ],
+    "author": "Code With Krishna",
+    "date": "2025-01-14",
+    "show": true
+  },
+  {
+    "id": "code-to-image-v1",
+    "title": "CodeSnap — Code to Image Tool",
+    "description": "Lightweight code-to-image tool converting snippets into beautiful, shareable images with clean UI, themes, backgrounds, and optimized 4K exports.",
+    "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/code-to-image-v1.png",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/code-to-image-v1.html",
+    "tags": [
+      "Tool",
+      "Developer",
+      "Image",
+      "PWA"
+    ],
+    "author": "Code With Krishna",
+    "date": "2025-12-16",
+    "show": true,
+    "isPremium": true
+  },
+  {
+    "id": "todo-pwa-v1",
+    "title": "TaskFlow — Todo App",
+    "description": "Modern mobile-first Todo PWA with fullscreen layout, purple gradients, glassmorphic UI, smooth animations, real-time stats, intuitive daily productivity experience.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/todo-pwa-v1.html",
+    "tags": [
+      "Productivity",
+      "PWA",
+      "App",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2025-12-20",
+    "show": true
+  },
+  {
+    "id": "js-editor-v1",
+    "title": "JavaScript Editor – Live Preview",
+    "description": "A lightweight in-browser JavaScript editor with auto-run and live preview support. Ideal for testing UI components, animations, and quick prototypes.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/js-editor-v1.html",
+    "tags": [
+      "Developer",
+      "Editor",
+      "Tool",
+      "Localhost"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-01-01",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+    "id": "onepage-cv-ats-v1",
+    "title": "One Page CV – ATS Friendly",
+    "description": "A clean, single-page resume template optimized for Applicant Tracking Systems. Ideal for job applications with structured content and readable layout.",
+    "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/onepage-cv-ats-v1.png",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/onepage-cv-ats-v1.html",
+    "tags": [
+      "Resume",
+      "Template",
+      "CV"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-01-03",
+    "type": "template",
+    "show": true
+  },
+  {
+    "id": "json-master",
+    "title": "JSON Master",
+    "description": "A powerful yet simple tool to format, validate, minify, and visualize JSON data. Ideal for developers working with APIs and configurations.",
+    "preview": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/previews/json-master.png",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/json-master.html",
+    "tags": [
+      "JSON",
+      "Developer",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2025-12-26",
+    "type": "tool",
+    "show": true
+  },
+  {
+    "id": "tic-tac-toe",
+    "title": "Tic Tac Toe",
+    "description": "Classic two player tic tac toe game with clean interface.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/tic-tac-toe.html",
+    "tags": [
+      "Game",
+      "Fun",
+      "Web"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-02-10",
+    "type": "game",
+    "isPremium": false,
+    "show": true
+  },
+  {
+    "id": "mockup-generator-v1",
+    "title": "Mobile Mockup Generator – 4K Export",
+    "description": "Create realistic mobile device mockups and export high resolution 4K image instantly.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/mockup-generator-v1.html",
+    "tags": [
+      "Mockup",
+      "Tool",
+      "PWA",
+      "Image"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-02-27",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+    "id": "base64-encoder-decoder-v1",
+    "title": "Base64 Encode / Decode Tool",
+    "description": "Quickly encode text to Base64 or decode Base64 strings instantly.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/base64-encoder-decoder-v1.html",
+    "tags": [
+      "Base64",
+      "Developer",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-03-9",
+    "type": "tool",
+    "isPremium": false,
+    "show": true
+  },
+  {
+    "id": "hash-tools-crypto-suite",
+    "title": "Hash Tools – Crypto Suite",
+    "description": "Generate and lookup hashes using MD5, SHA1, SHA224, SHA256, SHA384, and SHA512 instantly.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/hash-tools-crypto-suite.html",
+    "tags": [
+      "Security",
+      "Hash",
+      "Developer",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-03-09",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+    "id": "youtube-thumbnail-grabber-v1",
+    "title": "YouTube Thumbnail Grabber",
+    "description": "Extract and download all YouTube video thumbnail qualities instantly.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/youtube-thumbnail-grabber-v1.html",
+    "tags": [
+      "YouTube",
+      "Tool",
+      "Creator",
+      "PWA"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-03-10",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+    "id": "password-generator-v1",
+    "title": "Password Generator",
+    "description": "Generate strong random passwords with custom length and character options.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/password-generator-v1.html",
+    "tags": [
+      "Security",
+      "Password",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-03-10",
+    "type": "tool",
+    "isPremium": false,
+    "show": true
+  },
+  {
+    "id": "qr-generator-v1",
+    "title": "QR Code Generator",
+    "description": "Generate customizable QR codes with color, size, and download options.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/qr-generator-v1.html",
+    "tags": [
+      "QR",
+      "Generator",
+      "Tool",
+      "PWA"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-03-10",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+    "id": "markdown-editor-v1",
+    "title": "Markdown Editor – Live Preview",
+    "description": "Write Markdown with live preview, formatting toolbar, and export options.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/markdown-editor-v1.html",
+    "tags": [
+      "Markdown",
+      "Editor",
+      "Tool",
+      "PWA"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-03-09",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+    "id": "text-editor-v1",
+    "title": "Text Editor – Advanced Writing Tool",
+    "description": "Minimal text editor with find, formatting tools, stats, and export.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/text-editor-v1.html",
+    "tags": [
+      "Editor",
+      "Text",
+      "Tool",
+      "PWA"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-03-08",
+    "type": "tool",
+    "isPremium": false,
+    "show": true
+  },
+  {
+    "id": "dark-loopable-background-v1",
+    "title": "Dark Loopable Background",
+    "description": "A visually rich animated dark background with floating orbs, particle system, light rays, mesh gradients, and smooth loopable motion. Perfect for landing pages and hero sections.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/dark-loopable-background-v1.html",
+    "tags": [
+      "Background",
+      "Animation",
+      "Video"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-04-06",
+    "type": "template",
+    "isPremium": false,
+    "show": true
+  },
+  {
+    "id": "premium-abstract-flowing-background-v1",
+    "title": "Premium Abstract Flowing Background",
+    "description": "A premium animated abstract background featuring flowing waves, glowing orbs, micro particles, and dynamic light streams. Perfect for modern hero sections, landing pages, and high-end UI designs.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/premium-abstract-flowing-background-v1.html",
+    "tags": [
+      "Background",
+      "Animation",
+      "Video"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-04-06",
+    "type": "template",
+    "isPremium": false,
+    "show": true
+  },
+  {
+    "id": "threejs-ai-particle-background-v1",
+    "title": "Creative AI Background – Three.js",
+    "description": "A high-performance WebGL animated background built with Three.js featuring 3D particle systems, dynamic motion, and interactive mouse-based camera movement. Ideal for futuristic UI, AI dashboards, and hero sections.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/threejs-ai-particle-background-v1.html",
+    "tags": [
+      "Background",
+      "ThreeJS",
+      "3D",
+      "Interactive"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-04-06",
+    "type": "template",
+    "isPremium": true,
+    "show": true
+  },
+  {
+    "id": "threejs-particle-bg-60fps-v1",
+    "title": "60fps Particle Background – Three.js",
+    "description": "A smooth and lightweight 3D particle background built with Three.js, optimized for 60fps performance. Features rotating particles with soft circular textures, ideal for modern landing pages and hero sections.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/threejs-particle-bg-60fps-v1.html",
+    "tags": [
+      "Background",
+      "Video",
+      "3D",
+      "Animation"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-04-06",
+    "type": "template",
+    "isPremium": true,
+    "show": true
+  },
+  {
+  "id": "hyperspeed-background-v1",
+  "title": "Hyperspeed Starfield Background",
+  "description": "A fast-moving hyperspeed starfield animation built with pure Canvas API. Creates a futuristic warp-speed effect, perfect for hero sections, sci-fi designs, and immersive landing pages.",
+  "preview": "",
+  "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/hyperspeed-background-v1.html",
+  "tags": [
+    "Background",
+    "Animation",
+    "Video",
+    "Effect"
+  ],
+  "author": "Code With Krishna",
+  "date": "2026-04-06",
+  "type": "template",
+  "isPremium": false,
+  "show": true
+},
+{
+  "id": "particle-lines-background-v1",
+  "title": "Creative Particle Lines Background",
+  "description": "A smooth animated particle system with dynamic connecting lines based on distance. Built using Canvas API, perfect for modern websites, landing pages, and interactive backgrounds.",
+  "preview": "",
+  "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/particle-lines-background-v1.html",
+  "tags": [
+    "Background",
+    "Animation",
+    "Canvas",
+    "Particles"
+  ],
+  "author": "Code With Krishna",
+  "date": "2026-04-06",
+  "type": "template",
+  "isPremium": false,
+  "show": true
+}
 ]
