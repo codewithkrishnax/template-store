@@ -2,6 +2,51 @@
   {
     "icon": "fas fa-laptop-code",
     "title": "Code Mockup",
-    "url": "https://codewithkrishnax.github.io/codemockup/"
+    "tool": "codemockup"
+  },
+  {
+    "icon": "fab fa-js",
+    "title": "JS Editor",
+    "tool": "jseditor"
+  },
+  {
+    "icon": "fas fa-file-alt",
+    "title": "Markdown Editor",
+    "tool": "markdowneditor"
+  },
+  {
+    "icon": "fas fa-mobile-alt",
+    "title": "Device Mockup",
+    "tool": "devicemockup"
+  },
+  {
+    "icon": "fas fa-font",
+    "title": "Text Editor",
+    "tool": "texteditor"
+  },
+  {
+    "icon": "fas fa-hash",
+    "title": "Hash Tool",
+    "tool": "hashtool"
+  },
+  {
+    "icon": "fas fa-code",
+    "title": "Base64 Encoder/Decoder",
+    "tool": "base64encoderdecoder"
+  },
+  {
+    "icon": "fas fa-cubes",
+    "title": "JSON Tool",
+    "tool": "jsontool"
+  },
+  {
+    "icon": "fas fa-qrcode",
+    "title": "QR Code Generator",
+    "tool": "qrcodegenerator"
+  },
+  {
+    "icon": "fas fa-palette",
+    "title": "Color Export",
+    "tool": "colorstudio"
   }
 ]
