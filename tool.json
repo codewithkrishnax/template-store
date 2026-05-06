@@ -15,7 +15,7 @@
     "tool": "markdowneditor"
   },
   {
-    "icon": "fas fa-mobile-alt",
+    "icon": "fas fa-mobile-alt", 
     "title": "Device Mockup",
     "tool": "devicemockup"
   },
@@ -25,7 +25,7 @@
     "tool": "texteditor"
   },
   {
-    "icon": "fas fa-hash",
+    "icon": "fas fa-tools",
     "title": "Hash Tool",
     "tool": "hashtool"
   },
@@ -48,5 +48,14 @@
     "icon": "fas fa-palette",
     "title": "Color Export",
     "tool": "colorstudio"
+  },
+  {
+    "icon": "fas fa-image",
+    "title": "Image Tool",
+    "tool": "imagetool"
+  },{
+    "icon":"fas fa-paint-brush",
+    "title":"Draw Pad",
+    "tool":"drawpad"
   }
 ]
