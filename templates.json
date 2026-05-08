@@ -414,7 +414,7 @@
     "date": "2026-05-06",
     "type": "tool",
     "isPremium": true,
-    "show": true
+    "show": false
   },
     {
     "id": "json-tool-v1",
@@ -447,7 +447,7 @@
     "date": "2026-05-06",
     "type": "tool",
     "isPremium": true,
-    "show": true
+    "show": false
   },
   {
     "id": "qr-generator-v2",
@@ -481,7 +481,7 @@
     "date": "2026-05-06",
     "type": "tool",
     "isPremium": false,
-    "show": true
+    "show": false
   },{
     "id": "image-tool-v1",
     "title": "Image Tool – Resize, Compress, Convert",
