@@ -242,7 +242,7 @@
   },
   {
     "id": "text-editor-v1",
-    "title": "Text Editor – Advanced Writing Tool",
+    "title": "Simple Text Editor",
     "description": "Minimal text editor with find, formatting tools, stats, and export.",
     "preview": "",
     "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/text-editor-v1.html",
@@ -366,7 +366,7 @@
   },
   {
     "id": "color-export-studio-v1",
-    "title": "Pro Color Export Studio",
+    "title": "Color Export Studio",
     "description": "A modern color palette generator with real-time preview and export options. Perfect for designers and developers who need to create consistent color schemes.",
     "preview": "",
     "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/color-export-studio-v1.html",
@@ -383,7 +383,7 @@
   },
   {
     "id": "mockup-generator-v2",
-    "title": "Pro Mockup Generator – 4K Export",
+    "title": "Mockup Generator – 4K Export",
     "description": "Create realistic device mockups and export high resolution 4K image instantly.",
     "preview": "",
     "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/mockup-generator-v2.html",
@@ -434,7 +434,7 @@
   },
   {
     "id": "markdown-editor-v2",
-    "title": "Pro Markdown Editor",
+    "title": "Markdown Editor",
     "description": "Write Markdown with live preview, formatting toolbar, and export options.",
     "preview": "",
     "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/markdown-editor-v2.html",
@@ -451,7 +451,7 @@
   },
   {
     "id": "qr-generator-v2",
-    "title": "Pro QR Code Generator",
+    "title": "QR Code Generator",
     "description": "Generate customizable QR codes.",
     "preview": "",
     "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/qr-generator-v2.html",
@@ -513,6 +513,72 @@
     ],
     "author": "Code With Krishna",
     "date": "2026-05-06",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },{
+    "id":"color-picker",
+    "title":"Color Picker – Hex, RGB, HSL",
+    "description": "A simple color picker tool that allows you to select colors and get their Hex, RGB, and HSL values.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/color-picker.html",
+    "tags": [
+      "Color",
+      "Picker",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-05-07",
+    "type": "tool",
+    "isPremium": false,
+    "show": true
+  },{
+    "id":"Color Mixer",
+    "title":"Color Mixer – Blend Colors",
+    "description": "A simple color mixer tool that allows you to blend two colors and see the result.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/color-mixer.html",
+    "tags": [
+      "Color",
+      "Mixer",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-05-07",
+    "type": "tool",
+    "isPremium": false,
+    "show": true
+
+  },
+  {
+    "id":"twitter-tweet-gen",
+    "title":"X Tweet Generator",
+    "description": "A simple tool to generate X (formerly Twitter) tweet images with custom text, username, and profile picture.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/twitter-tweet-gen.html"
+    ,"tags": [
+      "Social Media",
+      "Generator",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-05-07",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  }, {
+    "id":"insta-tweet-gen",
+    "title":"Instagram Tweet Generator",
+    "description": "A simple tool to generate Instagram tweet images with custom text, username, and profile picture.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/insta-tweet-gen.html"
+    ,"tags": [
+      "Social Media",
+      "Generator",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-05-07",
     "type": "tool",
     "isPremium": true,
     "show": true
