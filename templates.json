@@ -582,5 +582,40 @@
     "type": "tool",
     "isPremium": true,
     "show": true
-  }
+  },
+  {
+    "id":"linkedin-post-gen",
+    "title":"LinkedIn Post Generator",
+    "description": "A simple tool to generate LinkedIn post images with custom text, username, and profile picture.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/linkedin-post-gen.html"
+    ,"tags": [
+      "Social Media",
+      "Generator",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-05-14",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+  "id": "snap-wrap",
+  "title": "Snap Wrap",
+  "description": "A premium, mobile-first image editing tool to add gradients, solid backgrounds, corner radius, and custom borders to photos with high-resolution export.",
+  "preview": "",
+  "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/snap-wrap.html",
+  "tags": [
+    "Image Editor",
+    "Design",
+    "Generator",
+    "Tool"
+  ],
+  "author": "Code With Krishna",
+  "date": "2026-05-14",
+  "type": "tool",
+  "isPremium": true,
+  "show": true
+}
 ]
