@@ -96,7 +96,7 @@
     "date": "2025-12-26",
     "type": "tool",
     "show": true,
-    "isPremium":false
+    "isPremium": false
   },
   {
     "id": "tic-tac-toe",
@@ -131,7 +131,7 @@
     "date": "2026-02-27",
     "type": "tool",
     "isPremium": true,
-    "hasFileUpload":true,
+    "hasFileUpload": true,
     "show": true
   },
   {
@@ -238,7 +238,7 @@
     "date": "2026-03-09",
     "type": "tool",
     "isPremium": true,
-    "show": true
+    "show": false
   },
   {
     "id": "text-editor-v1",
@@ -396,7 +396,7 @@
     "date": "2026-05-06",
     "type": "tool",
     "isPremium": true,
-    "hasFileUpload":true,
+    "hasFileUpload": true,
     "show": true
   },
   {
@@ -416,7 +416,7 @@
     "isPremium": true,
     "show": false
   },
-    {
+  {
     "id": "json-tool-v1",
     "title": "JSON Tool – Format, Validate, Minify",
     "description": "A powerful yet simple tool to format, validate, minify, and visualize JSON data. Ideal for developers working with APIs and configurations.",
@@ -482,7 +482,8 @@
     "type": "tool",
     "isPremium": false,
     "show": false
-  },{
+  },
+  {
     "id": "image-tool-v1",
     "title": "Image Tool – Resize, Compress, Convert",
     "description": "A simple yet powerful image tool to resize, compress, and convert images directly in the browser. Supports multiple formats and batch processing.",
@@ -498,11 +499,11 @@
     "type": "tool",
     "isPremium": true,
     "show": true,
-    "hasFileUpload":true
+    "hasFileUpload": true
   },
   {
-    "id":"draw-pad-v1",
-    "title":"Draw Pad – Simple Canvas Drawing Tool",
+    "id": "draw-pad-v1",
+    "title": "Draw Pad – Simple Canvas Drawing Tool",
     "description": "A simple canvas drawing tool for creating sketches and artwork.",
     "preview": "",
     "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/draw-pad-v1.html",
@@ -516,9 +517,10 @@
     "type": "tool",
     "isPremium": true,
     "show": true
-  },{
-    "id":"color-picker",
-    "title":"Color Picker – Hex, RGB, HSL",
+  },
+  {
+    "id": "color-picker",
+    "title": "Color Picker – Hex, RGB, HSL",
     "description": "A simple color picker tool that allows you to select colors and get their Hex, RGB, and HSL values.",
     "preview": "",
     "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/color-picker.html",
@@ -532,9 +534,10 @@
     "type": "tool",
     "isPremium": false,
     "show": true
-  },{
-    "id":"Color Mixer",
-    "title":"Color Mixer – Blend Colors",
+  },
+  {
+    "id": "Color Mixer",
+    "title": "Color Mixer – Blend Colors",
     "description": "A simple color mixer tool that allows you to blend two colors and see the result.",
     "preview": "",
     "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/color-mixer.html",
@@ -548,31 +551,14 @@
     "type": "tool",
     "isPremium": false,
     "show": true
-
   },
   {
-    "id":"twitter-tweet-gen",
-    "title":"X Tweet Generator",
+    "id": "twitter-tweet-gen",
+    "title": "X Tweet Generator",
     "description": "A simple tool to generate X (formerly Twitter) tweet images with custom text, username, and profile picture.",
     "preview": "",
-    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/twitter-tweet-gen.html"
-    ,"tags": [
-      "Social Media",
-      "Generator",
-      "Tool"
-    ],
-    "author": "Code With Krishna",
-    "date": "2026-05-07",
-    "type": "tool",
-    "isPremium": true,
-    "show": true
-  }, {
-    "id":"insta-tweet-gen",
-    "title":"Instagram Tweet Generator",
-    "description": "A simple tool to generate Instagram tweet images with custom text, username, and profile picture.",
-    "preview": "",
-    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/insta-tweet-gen.html"
-    ,"tags": [
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/twitter-tweet-gen.html",
+    "tags": [
       "Social Media",
       "Generator",
       "Tool"
@@ -584,12 +570,29 @@
     "show": true
   },
   {
-    "id":"linkedin-post-gen",
-    "title":"LinkedIn Post Generator",
+    "id": "insta-tweet-gen",
+    "title": "Instagram Tweet Generator",
+    "description": "A simple tool to generate Instagram tweet images with custom text, username, and profile picture.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/insta-tweet-gen.html",
+    "tags": [
+      "Social Media",
+      "Generator",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-05-07",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+    "id": "linkedin-post-gen",
+    "title": "LinkedIn Post Generator",
     "description": "A simple tool to generate LinkedIn post images with custom text, username, and profile picture.",
     "preview": "",
-    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/linkedin-post-gen.html"
-    ,"tags": [
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/linkedin-post-gen.html",
+    "tags": [
       "Social Media",
       "Generator",
       "Tool"
@@ -601,21 +604,111 @@
     "show": true
   },
   {
-  "id": "snap-wrap",
-  "title": "Snap Wrap",
-  "description": "A premium, mobile-first image editing tool to add gradients, solid backgrounds, corner radius, and custom borders to photos with high-resolution export.",
-  "preview": "",
-  "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/snap-wrap.html",
-  "tags": [
-    "Image Editor",
-    "Design",
-    "Generator",
-    "Tool"
-  ],
-  "author": "Code With Krishna",
-  "date": "2026-05-14",
-  "type": "tool",
-  "isPremium": true,
-  "show": true
-}
+    "id": "snap-wrap",
+    "title": "Snap Wrap",
+    "description": "A premium, mobile-first image editing tool to add gradients, solid backgrounds, corner radius, and custom borders to photos with high-resolution export.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/snap-wrap.html",
+    "tags": [
+      "Image Editor",
+      "Design",
+      "Generator",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-05-14",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+    "id": "favicon-studio",
+    "title": "Favicon Studio",
+    "description": "A premium tool to resize favicons for your website with multiple sizes.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/favicon-studio.html",
+    "tags": [
+      "Image Editor",
+      "Resizer",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-06-10",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+    "id": "html-css-js-editor",
+    "title": "HTML/CSS/JS - Editor",
+    "description": "A simple mobile-first HTML, CSS, and JavaScript playground with CodeMirror editing, tabbed workflow, and real-time live preview.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/html-css-js-editor.html",
+    "tags": [
+      "Developer",
+      "Editor",
+      "Code",
+      "Preview"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-06-10",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+    "id": "color-palette-extractor",
+    "title": "Color Palette Extractor",
+    "description": "Extract dominant colors from any image and instantly copy HEX color codes. Perfect for designers, developers, and brand color discovery.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/color-palette-extractor.html",
+    "tags": [
+      "Color",
+      "Palette",
+      "Design",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-06-10",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+    "id": "mesh-studio",
+    "title": "Mesh Studio",
+    "description": "Create beautiful mesh gradients with curated color palettes, blur controls, random generation, and high-quality PNG or SVG export.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/mesh-studio.html",
+    "tags": [
+      "Gradient",
+      "Design",
+      "Background",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-06-10",
+    "type": "tool",
+    "isPremium": false,
+    "show": true
+  },
+  {
+    "id": "pdf-compress-pro",
+    "title": "PDF Compress Pro",
+    "description": "Compress PDF files directly on your device with adjustable compression levels, privacy-focused processing, and optimized file size reduction.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/pdf-compress-pro.html",
+    "tags": [
+      "PDF",
+      "Compression",
+      "Document",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-06-10",
+    "type": "tool",
+    "isPremium": true,
+    "hasFileUpload": true,
+    "show": true
+  }
 ]
