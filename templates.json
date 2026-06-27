@@ -710,5 +710,59 @@
     "isPremium": true,
     "hasFileUpload": true,
     "show": true
-  }
+  },
+  {
+    "id": "image-base64-converter",
+    "title": "Image ↔ Base64 Converter",
+    "description": "Convert images to Base64 strings and decode Base64 back into images instantly. Supports drag & drop, clipboard, preview, download, and offline browser processing.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/image-base64-converter.html",
+    "tags": [
+      "Base64",
+      "Image",
+      "Converter",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-06-27",
+    "type": "tool",
+    "isPremium": false,
+    "show": true
+  },
+  {
+  "id": "browser-mockup-generator",
+  "title": "Browser Mockup Generator",
+  "description": "Create beautiful browser mockups with macOS and Windows styles. Upload screenshots, customize browser frame, choose image fit, and export high-quality PNG images up to 4K resolution.",
+  "preview": "",
+  "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/browser-mockup-generator.html",
+  "tags": [
+    "Mockup",
+    "Browser",
+    "Generator",
+    "Tool"
+  ],
+  "author": "Code With Krishna",
+  "date": "2026-06-27",
+  "type": "tool",
+  "isPremium": true,
+  "show": true
+},
+{
+  "id": "canvas-studio-image-exporter",
+  "title": "Canvas Studio – Image Exporter",
+  "description": "Design custom social media graphics by adding draggable text and images on a canvas. Customize background colors, freely position elements, and export high-quality PNG images.",
+  "preview": "",
+  "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/canvas-studio-image-exporter.html",
+  "tags": [
+    "Canvas",
+    "Editor",
+    "Generator",
+    "Tool"
+  ],
+  "author": "Code With Krishna",
+  "date": "2026-06-27",
+  "type": "tool",
+  "isPremium": true,
+  "show": true
+}
 ]
