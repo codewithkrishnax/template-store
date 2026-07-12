@@ -730,39 +730,129 @@
     "show": true
   },
   {
-  "id": "browser-mockup-generator",
-  "title": "Browser Mockup Generator",
-  "description": "Create beautiful browser mockups with macOS and Windows styles. Upload screenshots, customize browser frame, choose image fit, and export high-quality PNG images up to 4K resolution.",
+    "id": "browser-mockup-generator",
+    "title": "Browser Mockup Generator",
+    "description": "Create beautiful browser mockups with macOS and Windows styles. Upload screenshots, customize browser frame, choose image fit, and export high-quality PNG images up to 4K resolution.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/browser-mockup-generator.html",
+    "tags": [
+      "Mockup",
+      "Browser",
+      "Generator",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-06-27",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+    "id": "canvas-studio-image-exporter",
+    "title": "Canvas Studio – Image Exporter",
+    "description": "Design custom social media graphics by adding draggable text and images on a canvas. Customize background colors, freely position elements, and export high-quality PNG images.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/canvas-studio-image-exporter.html",
+    "tags": [
+      "Canvas",
+      "Editor",
+      "Generator",
+      "Tool"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-06-27",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+    "id": "ocr-studio-v1",
+    "title": "OCR Studio – Image to Text",
+    "description": "Extract editable text from images using OCR with camera, gallery, and clipboard support.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/ocr-studio-v1.html",
+    "tags": [
+      "OCR",
+      "Tool",
+      "Localhost",
+      "PWA"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-07-12",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+  "id": "qr-scanner-pro-v1",
+  "title": "QR Scanner Pro",
+  "description": "Scan QR codes and barcodes instantly using your camera with fast detection and link support.",
   "preview": "",
-  "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/browser-mockup-generator.html",
+  "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/qr-scanner-pro-v1.html",
   "tags": [
-    "Mockup",
-    "Browser",
-    "Generator",
-    "Tool"
+    "Scanner",
+    "Tool",
+    "Localhost",
+    "PWA"
   ],
   "author": "Code With Krishna",
-  "date": "2026-06-27",
+  "date": "2026-07-12",
   "type": "tool",
   "isPremium": true,
   "show": true
 },
 {
-  "id": "canvas-studio-image-exporter",
-  "title": "Canvas Studio – Image Exporter",
-  "description": "Design custom social media graphics by adding draggable text and images on a canvas. Customize background colors, freely position elements, and export high-quality PNG images.",
+  "id": "whatsapp-formatter-pro-v1",
+  "title": "WhatsApp Formatter Pro",
+  "description": "Format WhatsApp messages with bold, italic, code blocks, quotes, live preview, copy, and share support.",
   "preview": "",
-  "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/canvas-studio-image-exporter.html",
+  "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/whatsapp-formatter-pro-v1.html",
   "tags": [
-    "Canvas",
-    "Editor",
-    "Generator",
-    "Tool"
+    "WhatsApp",
+    "Formatter",
+    "Tool",
+    "PWA"
   ],
   "author": "Code With Krishna",
-  "date": "2026-06-27",
+  "date": "2026-07-12",
   "type": "tool",
   "isPremium": true,
+  "show": true
+},
+{
+  "id": "image-format-studio-v1",
+  "title": "Image Format Studio",
+  "description": "Convert images between WEBP, ICO, and BMP locally with adjustable quality and instant download.",
+  "preview": "",
+  "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/image-format-studio-v1.html",
+  "tags": [
+    "Image",
+    "Converter",
+    "Tool",
+    "PWA"
+  ],
+  "author": "Code With Krishna",
+  "date": "2026-07-12",
+  "type": "tool",
+  "isPremium": true,
+  "show": true
+},
+{
+  "id": "morse-studio-v1",
+  "title": "Morse Studio",
+  "description": "Translate English and Morse code with audio playback, copy support, and instant two-way conversion.",
+  "preview": "",
+  "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/morse-studio-v1.html",
+  "tags": [
+    "Morse",
+    "Translator",
+    "Tool",
+    "PWA"
+  ],
+  "author": "Code With Krishna",
+  "date": "2026-07-12",
+  "type": "tool",
+  "isPremium": false,
   "show": true
 }
 ]
