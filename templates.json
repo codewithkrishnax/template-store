@@ -854,5 +854,59 @@
   "type": "tool",
   "isPremium": false,
   "show": true
-}
+},
+ {
+    "id": "offline-image-compressor-v1",
+    "title": "Image Compressor",
+    "description": "Compress multiple images directly in your browser with adjustable quality and batch saving.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/offline-image-compressor-v1.html",
+    "tags": [
+      "Image",
+      "Compressor",
+      "Tool",
+      "PWA"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-10-01",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+    "id": "zip-studio-v1",
+    "title": "Zip Studio",
+    "description": "Create ZIP archives from multiple files directly in your browser using fast client-side compression.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/zip-studio-v1.html",
+    "tags": [
+      "ZIP",
+      "Compressor",
+      "File",
+      "PWA"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-10-01",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  },
+  {
+    "id": "watermark-studio-v1",
+    "title": "Watermark Studio",
+    "description": "Add and position image watermarks with adjustable size, opacity, and nine placement options.",
+    "preview": "",
+    "file": "https://raw.githubusercontent.com/codewithkrishnax/template-store/main/templates/watermark-studio-v1.html",
+    "tags": [
+      "Image",
+      "Watermark",
+      "Editor",
+      "PWA"
+    ],
+    "author": "Code With Krishna",
+    "date": "2026-10-01",
+    "type": "tool",
+    "isPremium": true,
+    "show": true
+  }
 ]
